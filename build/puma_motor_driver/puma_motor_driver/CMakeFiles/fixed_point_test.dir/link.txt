@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/fixed_point_test.dir/test/fixed_point_test.cpp.o  -o /home/apshirazi/RidgeBack_IDC/devel/lib/puma_motor_driver/fixed_point_test   -L/home/apshirazi/RidgeBack_IDC/build/gtest  -Wl,-rpath,/home/apshirazi/RidgeBack_IDC/build/gtest:/home/apshirazi/RidgeBack_IDC/build/gtest/lib ../../gtest/lib/libgtest.so -lpthread 

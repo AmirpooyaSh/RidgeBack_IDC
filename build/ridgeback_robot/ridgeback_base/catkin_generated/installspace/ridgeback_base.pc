@@ -1,0 +1,8 @@
+prefix=/home/apshirazi/RidgeBack_IDC/install
+
+Name: ridgeback_base
+Description: Description of ridgeback_base
+Version: 0.4.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

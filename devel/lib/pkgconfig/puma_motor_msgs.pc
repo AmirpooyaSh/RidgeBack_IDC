@@ -1,0 +1,8 @@
+prefix=/home/apshirazi/RidgeBack_IDC/devel
+
+Name: puma_motor_msgs
+Description: Description of puma_motor_msgs
+Version: 0.3.1
+Cflags: -I/home/apshirazi/RidgeBack_IDC/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

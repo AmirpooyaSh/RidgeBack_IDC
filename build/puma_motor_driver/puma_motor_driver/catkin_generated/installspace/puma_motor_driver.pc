@@ -1,0 +1,8 @@
+prefix=/home/apshirazi/RidgeBack_IDC/install
+
+Name: puma_motor_driver
+Description: Description of puma_motor_driver
+Version: 0.3.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lpuma_motor_driver
+Requires: diagnostic_updater puma_motor_msgs roscpp sensor_msgs serial

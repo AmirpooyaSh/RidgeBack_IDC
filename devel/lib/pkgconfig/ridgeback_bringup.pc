@@ -1,0 +1,8 @@
+prefix=/home/apshirazi/RidgeBack_IDC/devel
+
+Name: ridgeback_bringup
+Description: Description of ridgeback_bringup
+Version: 0.4.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/apshirazi/RidgeBack_IDC/devel
+
+Name: ridgeback_control
+Description: Description of ridgeback_control
+Version: 0.3.5
+Cflags: -I/home/apshirazi/RidgeBack_IDC/src/ridgeback/ridgeback_control/include
+Libs: -L${prefix}/lib -lmecanum_drive_controller
+Requires: controller_interface realtime_tools
